@@ -13,7 +13,7 @@ class CustomAppBar extends StatelessWidget {
       elevation: 0,
       backgroundColor: Colors.white,
       title: Text(
-        title ?? '',
+        title ?? 'PR_TEST',
         style: TextStyle(color: Colors.black),
       ),
     );
